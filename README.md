@@ -1,7 +1,6 @@
 # scraping-manga-py
 
-simple webscraping with python 
-
+scraping manga from website and download it with python
 ## frameworks :
 <a href="https://pypi.org/project/beautifulsoup4/">BeautifulSoup4 </a>
 <br>
