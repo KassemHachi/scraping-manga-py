@@ -40,13 +40,13 @@
   ('scraping manga',
    'D:\\Code\\tools\\scraping-manga-py\\scraping manga.py',
    'PYSOURCE'),
-  ('VCRUNTIME140.dll',
-   'c:\\users\\kassem '
-   'hachi\\appdata\\local\\programs\\python\\python38\\VCRUNTIME140.dll',
-   'BINARY'),
   ('python38.dll',
    'c:\\users\\kassem '
    'hachi\\appdata\\local\\programs\\python\\python38\\python38.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\kassem '
+   'hachi\\appdata\\local\\programs\\python\\python38\\VCRUNTIME140.dll',
    'BINARY'),
   ('unicodedata',
    'c:\\users\\kassem '

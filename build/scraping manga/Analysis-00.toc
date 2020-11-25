@@ -872,6 +872,10 @@
    'c:\\users\\kassem '
    'hachi\\appdata\\local\\programs\\python\\python38\\lib\\socket.py',
    'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\kassem '
+   'hachi\\appdata\\local\\programs\\python\\python38\\lib\\tracemalloc.py',
+   'PYMODULE'),
   ('_py_abc',
    'c:\\users\\kassem '
    'hachi\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
@@ -879,10 +883,6 @@
   ('stringprep',
    'c:\\users\\kassem '
    'hachi\\appdata\\local\\programs\\python\\python38\\lib\\stringprep.py',
-   'PYMODULE'),
-  ('tracemalloc',
-   'c:\\users\\kassem '
-   'hachi\\appdata\\local\\programs\\python\\python38\\lib\\tracemalloc.py',
    'PYMODULE'),
   ('os',
    'c:\\users\\kassem '
@@ -1396,13 +1396,13 @@
    'c:\\users\\kassem '
    'hachi\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\_version.py',
    'PYMODULE')],
- [('VCRUNTIME140.dll',
-   'c:\\users\\kassem '
-   'hachi\\appdata\\local\\programs\\python\\python38\\VCRUNTIME140.dll',
-   'BINARY'),
-  ('python38.dll',
+ [('python38.dll',
    'c:\\users\\kassem '
    'hachi\\appdata\\local\\programs\\python\\python38\\python38.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\kassem '
+   'hachi\\appdata\\local\\programs\\python\\python38\\VCRUNTIME140.dll',
    'BINARY'),
   ('unicodedata',
    'c:\\users\\kassem '

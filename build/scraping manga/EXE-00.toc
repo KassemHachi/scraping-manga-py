@@ -43,13 +43,13 @@
   ('scraping manga',
    'D:\\Code\\tools\\scraping-manga-py\\scraping manga.py',
    'PYSOURCE'),
-  ('VCRUNTIME140.dll',
-   'c:\\users\\kassem '
-   'hachi\\appdata\\local\\programs\\python\\python38\\VCRUNTIME140.dll',
-   'BINARY'),
   ('python38.dll',
    'c:\\users\\kassem '
    'hachi\\appdata\\local\\programs\\python\\python38\\python38.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\kassem '
+   'hachi\\appdata\\local\\programs\\python\\python38\\VCRUNTIME140.dll',
    'BINARY'),
   ('unicodedata',
    'c:\\users\\kassem '
@@ -139,7 +139,7 @@
  [],
  False,
  False,
- 1606246964,
+ 1606319217,
  [('run.exe',
    'c:\\users\\kassem '
    'hachi\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',

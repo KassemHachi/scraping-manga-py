@@ -843,6 +843,10 @@
    'c:\\users\\kassem '
    'hachi\\appdata\\local\\programs\\python\\python38\\lib\\socket.py',
    'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\kassem '
+   'hachi\\appdata\\local\\programs\\python\\python38\\lib\\tracemalloc.py',
+   'PYMODULE'),
   ('_py_abc',
    'c:\\users\\kassem '
    'hachi\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
@@ -850,10 +854,6 @@
   ('stringprep',
    'c:\\users\\kassem '
    'hachi\\appdata\\local\\programs\\python\\python38\\lib\\stringprep.py',
-   'PYMODULE'),
-  ('tracemalloc',
-   'c:\\users\\kassem '
-   'hachi\\appdata\\local\\programs\\python\\python38\\lib\\tracemalloc.py',
    'PYMODULE'),
   ('os',
    'c:\\users\\kassem '
